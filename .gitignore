@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+pytdgl/
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
