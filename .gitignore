@@ -4,3 +4,6 @@ pytdgl/
 # Ignore compiled python files
 __pycache__/
 *.pyc
+
+# ds_store
+.DS_Store
